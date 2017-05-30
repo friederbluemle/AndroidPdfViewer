@@ -145,7 +145,7 @@ Most important section is _Improving multiple APKs creation and versionCode hand
 You only need to do this in your application, no need for forking PdfiumAndroid or so.
 
 ### Why I cannot open PDF from URL?
-Downloading files is long running process which must be aware of Activity lifecycle, must support some configuration, 
+Downloading files is long running process which must be aware of Activity lifecycle, must support some configuration,
 data cleanup and caching, so creating such module will probably end up as new library.
 
 ### How can I show last opened page after configuration change?
